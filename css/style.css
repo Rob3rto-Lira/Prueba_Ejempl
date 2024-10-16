@@ -1,0 +1,11 @@
+body { background-color: black;
+color: aliceblue;}
+
+
+.mapache {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    align-items: center;
+
+}
